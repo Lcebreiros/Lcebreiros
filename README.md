@@ -12,6 +12,8 @@ Soy un **Desarrollador Backend** especializado en el ecosistema de **PHP y Larav
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Filament](https://img.shields.io/badge/Filament-PHP-yellow?style=for-the-badge&logo=laravel)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 * **Backend:** PHP 8.x (Laravel), Java.
 * **Bases de Datos:** MySQL, MariaDB, SQL.
@@ -20,15 +22,15 @@ Soy un **Desarrollador Backend** especializado en el ecosistema de **PHP y Larav
 
 ---
 
-### 📈 Proyecto Destacado: Gestior (Smart ERP & BI Platform)
-*Gestior es una solución integral diseñada para centralizar la operación comercial y administrativa, integrando Inteligencia Artificial para la toma de decisiones estratégicas.*
+### 📈 Proyecto Destacado: Gestior (Smart ERP & Business Intelligence)
+*Plataforma integral de gestión empresarial con análisis predictivo, diseñada para transformar datos operativos en decisiones estratégicas mediante IA.*
 
-#### 🚀 Características de Alto Impacto:
-* **Punto de Venta (POS) Reactivo:** Interfaz de alta velocidad desarrollada con **Laravel Livewire**, sincronizando stock y ventas en tiempo real.
-* **Business Intelligence con IA:** Integración con **Claude AI API** para análisis predictivo de rotación de stock, márgenes de ganancia y comportamiento de clientes.
-* **Gestión Contable 360°:** Cruce automático de datos de producción, impuestos y proveedores para reportes de rendimiento neto por periodos configurables.
-* **Arquitectura Multi-tenant:** Jerarquías complejas con **Spatie Roles** para la administración de múltiples sucursales independientes bajo una cuenta empresa.
-* **Soporte Integrado:** Sistema de tickets con **Chat en vivo** para comunicación directa con el usuario.
+#### 🚀 Ingeniería y Características de Alto Impacto:
+* **Punto de Venta (POS) & Sincronización Live:** Interfaz reactiva desarrollada con **Laravel Livewire** que gestiona ventas y actualiza stock en tiempo real, calculando instantáneamente el margen de ganancia neto por transacción.
+* **Business Intelligence & IA Predictiva:** Integración avanzada con la **API de Claude AI** para procesar métricas de ventas, gastos y rotación. El sistema genera **notificaciones y sugerencias inteligentes** sobre productos con baja rotación, mejores periodos de venta y comportamiento de clientes.
+* **Módulo Contable Automatizado:** Motor de cálculo que centraliza gastos de producción, insumos, impuestos y proveedores, permitiendo reportes detallados de rendimiento neto en periodos configurables.
+* **Arquitectura Multisucursal (Multi-tenant):** Implementación de jerarquías complejas con **Spatie Roles**. Las cuentas de empresa pueden supervisar múltiples sucursales independientes, administrar sus catálogos y **heredar stock** entre ellas.
+* **Customer Success & Live Support:** Sistema de tickets con **chat en vivo** integrado para soporte técnico y resolución de incidencias en tiempo real.
 
 ---
 
