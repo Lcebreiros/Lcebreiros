@@ -35,8 +35,22 @@ Soy un **Desarrollador Backend** especializado en el ecosistema de **PHP y Larav
 ---
 
 ### 🎮 Otros Proyectos
-* **Proyecto Cuanto Sabe:** Plataforma de juegos en tiempo real con integración de overlays para streaming y lógica compleja en JavaScript.
-* **Massamore:** Desarrollo de E-commerce avanzado con panel administrativo personalizado en **Filament PHP**.
+* **Proyecto Cuanto Sabe:** Interactive Streaming Platform
+* ### 🚀 Características Principales
+
+* **Sincronización Real-Time:** Comunicación bidireccional entre componentes mediante **Laravel WebSockets (Pusher)**, garantizando latencia mínima en la interacción Host-Invitado.
+* **Arquitectura Multivista:** * **Dashboard del Host:** Panel administrativo para la gestión de preguntas, tiempos y estados del juego.
+    * **Interfaz de Invitado:** Vista reactiva simplificada para respuestas en vivo.
+    * **Overlay de Transmisión:** Interfaz dinámica desarrollada en **JavaScript** optimizada para OBS/Streaming.
+* **Mecánicas Dinámicas:** Implementación de ruleta interactiva y sistema de puntajes asíncronos.
+* **Historial de Partidas:** Sección de repeticiones y landing informativa para usuarios nuevos.
+
+### 🛠️ Stack Tecnológico
+
+* **Backend:** Laravel 12, PHP 8.x, MySQL.
+* **Frontend:** JavaScript (ES6+), Tailwind CSS.
+* **Real-time:** Laravel Echo, Pusher (WebSockets).
+* **Infraestructura:** Despliegue híbrido en **AWS** (Landing) y **Hostinger** (Game Engine).
 
 ---
 
