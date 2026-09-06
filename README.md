@@ -32,7 +32,7 @@ Soy un **Desarrollador Backend** especializado en el ecosistema de **PHP y Larav
 * **Arquitectura Multisucursal (Multi-tenant):** Implementación de jerarquías complejas con **Spatie Roles**. Las cuentas de empresa pueden supervisar múltiples sucursales independientes, administrar sus catálogos y **heredar stock** entre ellas.
 * **Customer Success & Live Support:** Sistema de tickets con **chat en vivo** integrado para soporte técnico y resolución de incidencias en tiempo real.
 
-* ### 🚀 Proyecto Destacado: Faro — Innova Lab
+### 📈 Proyecto Destacado: Faro — Innova Lab
 
 *Proyecto desarrollado במסגרת del programa **Innova Lab del Gobierno de la Ciudad de Buenos Aires**, orientado a resolver una problemática real de accesibilidad: mejorar la experiencia de uso de Moodle para personas con discapacidades sin reemplazar ni modificar su plataforma base.*
 
