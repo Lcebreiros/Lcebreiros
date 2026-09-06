@@ -1,92 +1,85 @@
-¡Hola! Soy Leandro Cebreiros 👋
+# ¡Hola! Soy Leandro Cebreiros 👋
 
-Soy Backend Developer especializado en PHP y Laravel, con experiencia en el diseño y desarrollo de aplicaciones web, APIs y sistemas de gestión.
+Soy un **Desarrollador Backend** especializado en el ecosistema de **PHP y Laravel**. Mi formación técnica en soporte (*Service Desk*) me permite abordar el desarrollo con una mentalidad enfocada en la resolución eficiente de problemas y la satisfacción del cliente. Me destaco por transformar requisitos complejos en soluciones escalables y de alta calidad técnica.
 
-Mi experiencia previa en Service Desk me dio una fuerte orientación a la resolución de problemas y al análisis de necesidades reales de usuarios. Actualmente enfoco esa experiencia en construir soluciones backend mantenibles, escalables y orientadas a resolver problemas concretos.
+---
 
-También cuento con experiencia trabajando con Node.js / Express.js, integraciones entre servicios y equipos multidisciplinarios, incluyendo experiencias de liderazgo técnico.
+### 🛠️ Mi Stack Tecnológico
 
-⸻
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Filament](https://img.shields.io/badge/Filament-PHP-yellow?style=for-the-badge&logo=laravel)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-🛠️ Stack Tecnológico
+* **Backend:** PHP 8.x (Laravel), Java.
+* **Bases de Datos:** MySQL, MariaDB, SQL.
+* **Infraestructura:** AWS (EC2), Linux, Git / GitHub.
+* **Frontend & UI:** Livewire, Alpine.js, Tailwind CSS, Filament PHP.
 
-Backend
+---
 
-Bases de Datos
+### 📈 Proyecto Destacado: Gestior (Smart ERP & Business Intelligence)
+*Plataforma integral de gestión empresarial con análisis predictivo, diseñada para transformar datos operativos en decisiones estratégicas mediante IA.*
 
-Infraestructura & Herramientas
+#### 🚀 Ingeniería y Características de Alto Impacto:
+* **Punto de Venta (POS) & Sincronización Live:** Interfaz reactiva desarrollada con **Laravel Livewire** que gestiona ventas y actualiza stock en tiempo real, calculando instantáneamente el margen de ganancia neto por transacción.
+* **Business Intelligence & IA Predictiva:** Integración avanzada con la **API de Claude AI** para procesar métricas de ventas, gastos y rotación. El sistema genera **notificaciones y sugerencias inteligentes** sobre productos con baja rotación, mejores periodos de venta y comportamiento de clientes.
+* **Módulo Contable Automatizado:** Motor de cálculo que centraliza gastos de producción, insumos, impuestos y proveedores, permitiendo reportes detallados de rendimiento neto en periodos configurables.
+* **Arquitectura Multisucursal (Multi-tenant):** Implementación de jerarquías complejas con **Spatie Roles**. Las cuentas de empresa pueden supervisar múltiples sucursales independientes, administrar sus catálogos y **heredar stock** entre ellas.
+* **Customer Success & Live Support:** Sistema de tickets con **chat en vivo** integrado para soporte técnico y resolución de incidencias en tiempo real.
 
-Frontend & UI
+* ### 🚀 Proyecto Destacado: Faro — Innova Lab
 
-⸻
+*Proyecto desarrollado במסגרת del programa **Innova Lab del Gobierno de la Ciudad de Buenos Aires**, orientado a resolver una problemática real de accesibilidad: mejorar la experiencia de uso de Moodle para personas con discapacidades sin reemplazar ni modificar su plataforma base.*
 
-🚀 Proyectos Destacados
+#### 🧠 Rol: Backend Team Leader & Software Architect
 
-📊 Gestior — Smart ERP & Business Intelligence
+* **Definición de la solución:** Responsable de plantear la idea inicial y definir la solución técnica del proyecto. Se diseñó un **plugin embebido para Moodle**, permitiendo incorporar las mejoras de accesibilidad directamente sobre la plataforma existente sin reemplazarla.
+* **Arquitectura Backend:** Diseño de la arquitectura principal del sistema y definición de la estructura de comunicación entre los distintos componentes del producto.
+* **Liderazgo técnico:** Team Leader del equipo de Backend, coordinando la implementación y tomando decisiones técnicas orientadas a mantener un producto escalable, mantenible y alineado con los objetivos del proyecto.
+* **Integración entre equipos:** Responsable de traducir los requerimientos de los equipos de **Frontend y Data** en soluciones y servicios de backend, asegurando que la arquitectura pudiera satisfacer las necesidades de cada área.
+* **Desarrollo Backend:** Implementación de la lógica y servicios principales utilizando **Node.js y Express**, priorizando una arquitectura preparada para integrarse con el ecosistema existente de Moodle.
+* **Resolución de restricciones:** Diseño de una solución que cumpliera con la problemática y las condiciones planteadas por **Innova Lab**, manteniendo Moodle como plataforma base en lugar de desarrollar un reemplazo independiente.
 
-Plataforma integral de gestión empresarial desarrollada con Laravel, orientada a centralizar operaciones comerciales y transformar datos operativos en información útil para la toma de decisiones.
+### 🛠️ Stack Tecnológico
 
-Ingeniería y funcionalidades
+* **Backend:** Node.js, Express.js.
+* **Integración:** Moodle, arquitectura basada en plugin embebido.
+* **Desarrollo:** JavaScript, Git / GitHub.
+* **Metodología:** Trabajo colaborativo multidisciplinario con equipos de Backend, Frontend y Data.
 
-* POS & sincronización en tiempo real: sistema de ventas desarrollado con Laravel Livewire, con actualización de stock y cálculo de margen neto por transacción.
-* Business Intelligence & IA: integración con Claude AI API para analizar métricas de ventas, gastos, rotación de productos y comportamiento de clientes.
-* Módulo contable: centralización de gastos, producción, insumos, impuestos y proveedores para generar reportes de rendimiento.
-* Arquitectura multisucursal: gestión de empresas y sucursales mediante jerarquías de permisos y roles con Spatie.
-* Gestión de stock: administración y transferencia de inventario entre sucursales.
-* Customer Support: sistema de tickets y chat en vivo para gestión de incidencias.
 
-Stack: PHP 8.x · Laravel · MySQL · Livewire · Filament · Alpine.js · Tailwind CSS · Spatie · Claude AI · AWS
+---
 
-⸻
+### 🎮 Otros Proyectos
+* **Proyecto Cuanto Sabe:** Interactive Streaming Platform
+* ### 🚀 Características Principales
 
-♿ FARO — Accessibility for Moodle
+* **Sincronización Real-Time:** Comunicación bidireccional entre componentes mediante **Laravel WebSockets (Pusher)**, garantizando latencia mínima en la interacción Host-Invitado.
+* **Arquitectura Multivista:** * **Dashboard del Host:** Panel administrativo para la gestión de preguntas, tiempos y estados del juego.
+    * **Interfaz de Invitado:** Vista reactiva simplificada para respuestas en vivo.
+    * **Overlay de Transmisión:** Interfaz dinámica desarrollada en **JavaScript** optimizada para OBS/Streaming.
+* **Mecánicas Dinámicas:** Implementación de ruleta interactiva y sistema de puntajes asíncronos.
+* **Historial de Partidas:** Sección de repeticiones y landing informativa para usuarios nuevos.
 
-Solución de accesibilidad para Moodle, desarrollada durante la primera edición de Innova Lab — Gobierno de la Ciudad.
+### 🛠️ Stack Tecnológico
 
-El proyecto surgió a partir de una problemática real de accesibilidad en entornos virtuales de aprendizaje. La propuesta consistió en integrar un plugin directamente en Moodle, accesible mediante un botón flotante, para proporcionar funcionalidades de accesibilidad sin alterar significativamente la experiencia del usuario.
+* **Backend:** Laravel 12, PHP 8.x, MySQL.
+* **Frontend:** JavaScript (ES6+), Tailwind CSS.
+* **Real-time:** Laravel Echo, Pusher (WebSockets).
+* **Infraestructura:** Despliegue híbrido en **AWS** (Landing) y **Hostinger** (Game Engine).
 
-Mi rol — Team Leader & Backend Developer
+---
 
-* Diseño de la arquitectura inicial de la solución.
-* Definición de la estrategia técnica del proyecto.
-* Desarrollo de la estructura base del backend con Node.js y Express.js.
-* Diseño de APIs y estructuras de comunicación.
-* Integración técnica con los equipos de Frontend y Data.
-* Coordinación del trabajo dentro de un equipo multidisciplinario.
-* Participación en la definición del producto y en las decisiones de arquitectura.
+### 🌍 Idiomas
+* **Español:** Nativo.
+* **Inglés:** Nivel Alto / Avanzado (C1/B2).
 
-Stack: Node.js · Express.js · JavaScript · Moodle · REST APIs
-
-Proyecto desarrollado sobre una problemática real, con restricciones de tiempo y recursos, combinando desarrollo backend, arquitectura y liderazgo técnico.
-
-⸻
-
-🎮 Cuánto Sabe — Interactive Streaming Platform
-
-Plataforma interactiva para streaming diseñada para permitir la participación de invitados y audiencia en juegos en tiempo real.
-
-Características
-
-* Real-time communication: comunicación bidireccional mediante Laravel WebSockets, Pusher y Laravel Echo.
-* Host Dashboard: administración de preguntas, tiempos y estados del juego.
-* Guest Interface: interfaz reactiva para participación en vivo.
-* Streaming Overlay: interfaz JavaScript optimizada para integración con OBS.
-* Mecánicas dinámicas: ruleta interactiva y sistema de puntuación asíncrono.
-* Historial de partidas: almacenamiento y consulta de partidas anteriores.
-
-Stack: Laravel 12 · PHP 8.x · MySQL · JavaScript ES6+ · Tailwind CSS · Laravel Echo · Pusher · AWS · Hostinger
-
-⸻
-
-🌍 Idiomas
-
-* 🇦🇷 Español: Nativo
-* 🇬🇧 Inglés: B2/C1
-
-⸻
-
-📫 Contacto
-
-* 🌐 Portfolio: leandrocebreiros.com.ar
-* 💼 LinkedIn: linkedin.com/in/lcebreiros
-* 📧 Email: leancebreiros@hotmail.com
+### 📫 Contacto
+* **Portfolio:** [leandrocebreiros.com.ar](http://leandrocebreiros.com.ar)
+* **LinkedIn:** [linkedin.com/in/lcebreiros](https://www.linkedin.com/in/lcebreiros)
+* **Email:** leancebreiros@hotmail.com
